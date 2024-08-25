@@ -1,4 +1,4 @@
-# Sales Strategy Selection for a New Product Line
+# Sales Prediction
 
 ## Project Overview
 This project focuses on optimizing sales strategies for a new product line using the Kaggle Sales Prediction dataset. Through rigorous data exploration, preprocessing, and model training, the project aims to identify the most effective sales strategies based on predictive analytics.
